@@ -5,6 +5,9 @@
 | ------------- | ------------- |
 | <img src="https://github.com/BoguslawObara/vesselness2d/blob/master/im/jellyfish.png" width="250">  | <img src="https://github.com/BoguslawObara/neuriteness2d/blob/master/im/jellyfish_n.png" width="250"> |
 
+Required packages:
+- [vesselness2d](../../../vesselness2d)
+
 If you find this code useful in your research and development, please consider citing:
 
     @article{Obara2012b,
